@@ -1,0 +1,241 @@
+
+.container {
+	width: 1500px;
+	margin: auto;
+}
+
+.body {
+	width: 1500px;
+	margin: auto;
+}
+
+
+.home {
+	height: 650px;
+}
+
+
+.about, .menu, .careers {
+	height: 700px;
+	width: 1500px;
+	margin: auto;
+}
+
+
+
+.navbar {
+	height: 100px;
+
+}
+
+.footer {
+	height: 100px;
+	
+}
+
+
+.home {
+	background-color: #7D8C96;
+}
+
+
+.navbar {
+	background-color: #262424;
+}
+
+
+
+.about {
+	background-color: #86AC9D;
+}
+
+.menu {
+	background-color: #99B7BC;
+}
+
+.careers {
+	background-color: cadetblue;
+}
+
+.footer {
+	background-color: darkslategrey;
+}
+
+
+
+.brand {
+	height: 170px;
+	width: 25%;
+	float: left;
+	margin-top: 40px;
+	margin-bottom: 20px;
+	margin: 55px;
+	
+}
+
+.brand h2 {
+ 	color: #99B7BC;
+ 	font-family: 'Lucida Sans';
+ 	font-style: italic;
+ 	font-size: 40px;
+ 	
+}
+
+.brand h3 {
+	color: #99B7BC;
+	font-family: 'Lucida Sans';
+	font-size: 24px;
+}
+
+.book {
+	height: 100px;
+	width: 20%;
+	background-color: white;
+	float: left;
+	clear: both;
+	margin: 50px;
+}
+
+.book h3 {
+	color: #99B7BC;
+	text-align: center;
+	font-size: 26px;
+}
+
+
+.img1 {
+	height: 600px;
+	width: 23%;
+	float: left;
+	background-color: red;
+	
+
+
+	
+	
+	 
+}
+
+.img2 {
+	height: 600px;
+	width: 23%;
+	float: left;
+	background-color: brown;
+	margin-top: 60px;
+	margin: 95px;
+	
+	
+}
+
+.view-menu {
+	height: 150px;
+	width: 25%;
+	float: right;
+	background-color: white;
+	margin: 100px;
+	
+}
+
+.view-menu h3 {
+	color: #9E9080;
+	text-align: center;
+	font-size: 30px;
+}
+
+.about-img {
+	height: 400px;
+	width: 40%;
+	float: left;
+	background-color: hotpink;
+	margin-top: 50px;
+	margin: 100px
+}
+
+
+.text {
+	height: 170px;
+	width: 30%;
+	float: right;
+	background-color: lightblue;
+	margin: 100px;
+	margin-top: 170px;
+}
+
+.read-more {
+	height: 50px;
+	width: 20%;
+	float: right;
+	background-color: yellow;
+	margin 100px;
+	
+}
+
+.careers-text {
+	height: 250px;
+	width: 35%;
+	margin: auto;
+	background-color: ivory;
+	margin-bottom: 55px;
+	
+}
+
+.careers-text, .h2 {
+	color: #193F47;
+	text-align: center;
+}
+
+.careers-text, .p {
+	color: #193F47;
+	text-align: center;
+}
+
+
+
+.learn-more {
+	height: 100px;
+	width: 20%;
+	margin: auto;
+	background-color: darkturquoise;
+
+}
+
+.learn-more, .h2 {
+		color: #193F47;
+		text-align: center;
+}
+
+navbar {
+  background-color: #99B7BC;
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+
+}
+
+.navbar a {
+  float: right;
+  display: block;
+  color: #99B7BC;
+  text-align: right;
+  padding: 40px 50px;
+  text-decoration: none;
+  font-size: 18px;
+
+}
+
+
+.navbar a:hover {
+  background-color: lightgrey;
+  color: black;
+}
+
+.home {
+    background-image: url("background-inside.jpg"); 
+    
+    
+}
+
+
+
+
+

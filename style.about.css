@@ -1,0 +1,87 @@
+
+
+.container {
+	width: 1500px;
+	margin: auto;
+}
+
+.our-story {
+	height: 800px 
+}
+
+.our-story {
+	background-color: black; 
+}
+
+.pic {
+	height: 670px;
+	width: 37%;
+	background-color:black;
+	float: left;
+	margin: 40px;
+
+}
+
+.text {
+	height: 450px;
+	width: 35%;
+	background-color: black;
+	float: right;
+	margin: 130px;
+	
+}
+
+p {
+	color: #9E9080;
+	font-family: "Times Sans Serif",Times,Baskerville,Georgia,serif;
+	font-size: 24px;
+
+}
+
+h2 {
+	color: #9E9080;
+	font-family: "Times Sans Serif",Times,Baskerville,Georgia,serif;
+	font-style: light;
+	font-size: 45px;
+	
+
+}
+
+.our-story2 {
+	height: 800px;
+	background-color: black;
+}
+
+.pic2 {
+	height: 670px;
+	width: 37%;
+	background-color: black;
+	float: right;
+	margin: 55px;
+}
+
+.text2 {
+	height: 450px;
+	width: 35%;
+	background-color: black;
+	float: left;
+	margin: 130px;
+
+	
+}
+
+.text2 p {
+	color: #9E9080;
+	font-family: "Times Sans Serif",Times,Baskerville,Georgia,serif;
+	font-size: 24px;
+	
+}
+
+
+
+
+
+
+.pic2 {
+	background-image: url("inside.jpg")
+}
